@@ -10,6 +10,7 @@
  * 		last digit of the number stored in the
  * 		variable n."
  *
+ *
  * Return: Always 0.
 */
 int main(void)
